@@ -1,24 +1,37 @@
-# Instructions to work on the Workbench and Submit Practices and Challenges
+# Problem Statement
+Wat-a-Pizza delivers  made-to-order vegetarian pizzas along with other sides and menu items.   As a promotional offer, the pizza joint is providing a 10% discount on any purchase of $50 or more.​
 
-1. Fork the project into your own name space.
+Write a Java program to store the personal details and the order details of a customer. Also, calculate the order amount and the discount received. 
 
-2. Navigate to the workbench **https://coding.stackroute.niit.com/**.
+**Write test cases for the solution provided.**
 
-3. Click on Open to Code.
+## Tasks
 
-   <img src="img1.PNG" />
+- Create the test cases in the PizzaOrderTest class created in the test package.
+- Initialize the object of the PizzaOrder class in the setUp() method, that will be called before the execution of every test case.
+- Set the object of PizzaOrder class initialized in the setup method to null in the tearDown() method, that will be called after the execution of every test case.
+- Create the given test cases in the PizzaOrderTest class created in the test package.
 
-4. The project created has the maven structure as shown below. Maven is a build tool to give structure to Java Projects.
+**public void givenNoOfPizzaAndPriceOfPizzaCalculateTotalPriceSuccess()**
 
-   <img src="img2.PNG" />
+**public void givenNoOfGarlicBreadAndPriceOfGarlicBreadCalculateTotalPriceSuccess()**
 
-5. The **src** folder contains the main and test folders that have the java classes and test classes.
+**public void givenNoOfBeveragesAndPriceOfBeverageCalculateTotalPriceSuccess()**
 
-6. To compile the program click on the Compile button, there is no need to pass the class name as a parameter, maven automatically executes the command to compile the **.java** file present in the src folder.
+**public void givenNoOfPizzaAndPriceOfPizzaCalculateTotalPriceFailure()**
 
-   <img src="img3.PNG" />
+**public void givenNoOfGarlicBreadAndPriceOfGarlicBreadCalculateTotalPriceFailure()**
 
-7. Execute the test cases by clicking on the test button,there is no need to pass the class name as a parameter.
+**public void givenNoOfBeveragesAndPriceOfBeverageCalculateTotalPriceFailure()**
+
+**public void givenSizeofPizzaReturnPrice()**
+
+**public void givenPriceOfItemsCalculateTotalBillAmount()**
+
+**public void givenTotalBillAmountGreaterThan50CalculateDiscount()**
+
+**public void givenTotalBillLessThan50AmountCalculateDiscount()**
+
 
    
 

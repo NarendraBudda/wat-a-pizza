@@ -1,14 +1,5 @@
-# PpenJDK11InputNumber_boilerplate
-Introduces reading input number using Scanner class
+Wat-a-pizza is popular for delivering custom-made vegetarian pizzas. To further promote their product, they are offering a discount of 10% for any bill that is greater than $50.
 
-PS: Code in the editor gets automatically saved (but not committed) before you run any command, hence do not worry about saving the file
+Write a Java program to store a customer's personal details and the orders made by him.
 
-#### Working instructions
-- Click the file ReadInputNumber.java (file name is case sensitive) and observe the various parts of the program and understand how Scanner class is imported and used
-- Click on `BUILD & RUN` button, which displays command buttons and fields to enter commad line argumetns
-- Compile Java program by passing ReadInputNumber.java as the command line argument and click on Compile, which should silently compile (no output will be printed)
-- From where you can see the command buttons, you should also see a text area to pass inputs to STDIN, it is where you pass inputs to your program. Enter two lines of strings in the textarea
-- Now run Java program by passing class name ReadInputNumber (class name is case sensitive) as the command line argument and passing the input as above mentioned and clicking on Run button, which executes your program and prints the string on the standard output
-- Similarly try taking more lines and try programming, you have to compile the program each time you make code change
-
-PS: Do not forget to commit the code bfore you leave the editor, to ensure all your changes are saved permenantly 
+Calculate the total bill amount for all the items ordered and then calculate the total discount received by the customer.

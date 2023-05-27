@@ -1,13 +1,9 @@
-# HelloWorld
-Simple Java program template, which prints a string to standard output
+Wat-a-pizza is a pizza delivery joint that has become popular for its custom-made vegetarian pizzas.
 
-PS: Code in the editor gets automatically saved (but not committed) before you run any command, hence do not worry about saving the file
+As a seasonal promotional offer, Wat-a-Pizza is currently giving a discount of 10% off on the total bill.
 
-#### Working instructions
-- Click the file HelloWorld.java (file name is case sensitive) and observe the various parts of the program, you may change the string to print your own message
-- Click on `BUILD & RUN` button, which displays command buttons and fields to enter commad line argumetns
-- Compile Java program by passing HelloWorld.java as the command line argument and click on Compile, which should silently compile (no output will be printed)
-- Now run Java program by passing class name HelloWorld (class name is case sensitive) as the command line argument and clicking on Run button, which executes your program and prints the string on the standard output, make sure your maintain the same case and not change
-- Now try changing the code to print some more messages using statement System.out.println("<Type Your String Here>");, don't forget to compile each time you make code change
+Write a Java program to store the personal details of a customer along with his order details. Calculate the total bill after giving a 10% discount.![Screenshot (4)](https://github.com/NarendraBudda/wat-a-pizza/assets/87933304/8141ecbd-b470-4add-b4cc-6a622d1fcc67)
+![Screenshot (5)](https://github.com/NarendraBudda/wat-a-pizza/assets/87933304/8c9113a8-1e23-4617-b1f4-5eb2fc2a9c2c)
+![Screenshot (6)](https://github.com/NarendraBudda/wat-a-pizza/assets/87933304/0d7a8f6c-907b-4cce-9dca-f8c807c63b5c)
+![Screenshot (7)](https://github.com/NarendraBudda/wat-a-pizza/assets/87933304/4b23acdb-3891-4cde-825d-62f490addd56)
 
-PS: Do not forget to commit the code bfore you leave the editor, to ensure all your changes are saved permenantly 
